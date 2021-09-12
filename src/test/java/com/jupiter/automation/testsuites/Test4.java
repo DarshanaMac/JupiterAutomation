@@ -28,14 +28,15 @@ public class Test4  extends Initializer {
         ShopPage shopPage = PageFactory.initElements(driver, ShopPage.class);
         shopPage.splitProductsFromList(products);
         shopPage.verifySubTotal(prices);
-        shopPage.resolveProductNamesAndUnitPrice(products,prices);
+       shopPage.resolveProductNamesAndUnitPrice(products,prices);
     }
 
     @DataProvider(name="BuyProducts")
     public Object[][] getDataFromDataprovider(){
         return new Object[][]
                 {
-                        { "http://jupiter.cloud.planittesting.com","Stuffed Frog=2,Fluffy Bunny=5,Valentine Bear=3","10.99=2,9.99=5,14.99=3"}
+                     //   { "http://jupiter.cloud.planittesting.com","Stuffed Frog=2,Fluffy Bunny=5,Valentine Bear=3","10.99=2,9.99=5,14.99=3"},
+                        { "http://jupiter2.cloud.planittesting.com","Stuffed Frog=2,Fluffy Bunny=5,Valentine Bear=3","10.99=2,8.99=5,13.99=3"}
                 };
     }
 

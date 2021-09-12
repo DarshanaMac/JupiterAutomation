@@ -114,6 +114,7 @@ public class ShopPage extends CodeBase {
             total=total+subtotal;
         }
 
+        System.out.println("Total - "+total);
         writeToReport(">> Total : "+total);
         validateTotal(total);
     }
@@ -123,6 +124,7 @@ public class ShopPage extends CodeBase {
         WebElement element=driver.findElement(By.xpath("//strong[contains(text(),'"+total+"')]"));
         isDisplayed(element);
         String actualTotal=lbl_total.getText();
+        System.out.println("Total - "+total);
         Assert.assertEquals(actualTotal,"Total: "+total);
     }
 

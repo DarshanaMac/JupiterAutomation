@@ -30,7 +30,6 @@ public class Test3 extends Initializer {
         shopPage.verifyCartItems(product1,product2);
     }
 
-
     @DataProvider(name="products")
     public Object[][] getDataFromDataprovider(){
         return new Object[][]

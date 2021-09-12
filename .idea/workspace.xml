@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422cb538-e2e3-4950-8512-c9fe78b67257" name="Default Changelist" comment="" />
+    <list default="true" id="422cb538-e2e3-4950-8512-c9fe78b67257" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/framework/codebase/Initializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/framework/codebase/Initializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/ShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/ShopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/testsuites/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/testsuites/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/testsuites/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/testsuites/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/framework/codebase/Initializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/framework/codebase/Initializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jupiter/automation/pages/ShopPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/jupiter/automation/pages/ShopPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jupiter/automation/testsuites/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/jupiter/automation/testsuites/Test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jupiter/automation/testsuites/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/jupiter/automation/testsuites/Test4.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1xuYSCSZ4cZLYXk39toVx5d9mcd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -49,34 +65,7 @@
       <recent name="D:\New folder\JupiterAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Test4.Test4">
-    <configuration name="D:/New folder/JupiterAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JupiterTestAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JupiterTestAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
-      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Test4">
     <configuration name="Test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JupiterTestAutomation" />
       <extension name="coverage">
@@ -95,6 +84,40 @@
       </method>
     </configuration>
     <configuration name="Test4 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4 (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JupiterTestAutomation" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test4.Test4" />
         <item itemvalue="TestNG.Test4" />
+        <item itemvalue="TestNG.Test4.Test4" />
+        <item itemvalue="TestNG.Test4 (3)" />
+        <item itemvalue="TestNG.Test4 (2)" />
         <item itemvalue="TestNG.Test4 (1)" />
-        <item itemvalue="TestNG.D:/New folder/JupiterAutomation/testng.xml" />
-        <item itemvalue="TestNG.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -210,38 +233,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631207319723" />
-    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1631438279657">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1631441065826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
-    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1631438279657">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631441065826" />
+    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1631441065825">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
-    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1631438279657">
+    <state width="1237" height="181" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631441065825" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1631441065825">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
-    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1631438279657">
+    <state width="1237" height="181" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631441065825" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1631441065826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
-    <state width="1237" height="146" key="GridCell.Tab.1.bottom" timestamp="1631438199612">
+    <state width="1237" height="181" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631441065826" />
+    <state width="1237" height="181" key="GridCell.Tab.1.bottom" timestamp="1631441065826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631438199612" />
-    <state width="1237" height="146" key="GridCell.Tab.1.center" timestamp="1631438199611">
+    <state width="1237" height="181" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631441065826" />
+    <state width="1237" height="181" key="GridCell.Tab.1.center" timestamp="1631441065826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631438199611" />
-    <state width="1237" height="146" key="GridCell.Tab.1.left" timestamp="1631438199611">
+    <state width="1237" height="181" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631441065826" />
+    <state width="1237" height="181" key="GridCell.Tab.1.left" timestamp="1631441065826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631438199611" />
-    <state width="1237" height="146" key="GridCell.Tab.1.right" timestamp="1631438199612">
+    <state width="1237" height="181" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631441065826" />
+    <state width="1237" height="181" key="GridCell.Tab.1.right" timestamp="1631441065826">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631438199612" />
+    <state width="1237" height="181" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631441065826" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1631368481247">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -265,6 +288,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/ShopPage.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="dart-exception" />
       </default-breakpoints>

@@ -70,6 +70,8 @@ public class Initializer {
     @AfterMethod
     public void flushReport(){
         extent.flush();
+
+
     }
 
 
