@@ -1,4 +1,4 @@
-package com.jupiter.automation.testsuites;
+ package com.jupiter.automation.testsuites;
 
 import com.framework.codebase.Initializer;
 import com.jupiter.automation.pages.ContactPage;
@@ -13,7 +13,7 @@ public class Test1 extends Initializer {
     /**
      * @param url
      *
-     * Description: Verify error messages after submitting without entering mandatory fields
+     * Description: Verify error messages after submitting without entering mandatory fields and after entering mandatory fields not display error messages
      */
     @Test(dataProvider="checkErrorMessages")
     public void Test1(String url,String name,String email,String message) throws InterruptedException {
