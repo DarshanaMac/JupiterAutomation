@@ -1,4 +1,4 @@
-## JupiterAutomation
+## Jupiter Automation Suite
 
 ## Requirements
 
