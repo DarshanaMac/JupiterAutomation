@@ -21,7 +21,7 @@
 2. Import project as Maven project
 3. Full run- Execute testng.xml
 4. Execution with command line - mvn clean install test -DsuiteXmlFile=testng.xml
-5.  
+  
 
 ## Change Chrome Driver
 --------------------
