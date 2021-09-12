@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="422cb538-e2e3-4950-8512-c9fe78b67257" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xuYSCSZ4cZLYXk39toVx5d9mcd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New folder\JupiterAutomation\src\main\resources" />
+      <recent name="D:\New folder\JupiterAutomation\src\main\java" />
+      <recent name="D:\New folder\JupiterAutomation\src\Lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.framework.codebase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\New folder\JupiterAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test4.Test4">
+    <configuration name="D:/New folder/JupiterAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4.Test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JupiterTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jupiter.automation.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test4" />
+      <option name="METHOD_NAME" value="Test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test4.Test4" />
+        <item itemvalue="TestNG.Test4" />
+        <item itemvalue="TestNG.Test4 (1)" />
+        <item itemvalue="TestNG.D:/New folder/JupiterAutomation/testng.xml" />
+        <item itemvalue="TestNG.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="422cb538-e2e3-4950-8512-c9fe78b67257" name="Default Changelist" comment="" />
+      <created>1631206437391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631206437391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1631217154956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1631217154956" />
+    <state x="402" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631212578443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1631212578443" />
+    <state x="321" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1631395822916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1631395822916" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631217304751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1631217304751" />
+    <state x="396" y="45" width="864" height="591" key="#xdebugger.evaluate" timestamp="1631371745249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="45" width="864" height="591" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1631371745249" />
+    <state width="488" height="438" key="DebuggerActiveHint" timestamp="1631396030963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="488" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1631396030963" />
+    <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1631207319723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631207319723" />
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1631438279657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
+    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1631438279657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
+    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1631438279657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
+    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1631438279657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631438279657" />
+    <state width="1237" height="146" key="GridCell.Tab.1.bottom" timestamp="1631438199612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631438199612" />
+    <state width="1237" height="146" key="GridCell.Tab.1.center" timestamp="1631438199611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631438199611" />
+    <state width="1237" height="146" key="GridCell.Tab.1.left" timestamp="1631438199611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631438199611" />
+    <state width="1237" height="146" key="GridCell.Tab.1.right" timestamp="1631438199612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631438199612" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1631368481247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1631368481247" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1631416957946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631416957946" />
+    <state x="171" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1631342669078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1631342669078" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1631420494586">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1631420494586" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1631396693449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1631396693449" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" parallel="methods" thread-count="2">
+    <test name="TestSuites">
+        <classes>
+            <class name="com.jupiter.automation.testsuites.Test1"/>
+            <class name="com.jupiter.automation.testsuites.Test2"/>
+           <class name="com.jupiter.automation.testsuites.Test3"/>
+           <class name="com.jupiter.automation.testsuites.Test4" />
+        </classes>
+    </test>
+</suite>
