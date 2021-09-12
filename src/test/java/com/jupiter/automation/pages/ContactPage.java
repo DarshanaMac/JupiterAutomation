@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 public class ContactPage extends CodeBase {
@@ -39,6 +40,18 @@ public class ContactPage extends CodeBase {
     @FindBy(xpath = "//div[@class='alert alert-success']")
     private WebElement lbl_success;
 
+    @CacheLookup
+    @FindBy(how = How.XPATH, using = "//span[text()='Forename is required']")
+    WebElement lbl_ForeNameError;
+
+    @CacheLookup
+    @FindBy(how = How.XPATH, using = "//span[@id='email-err']")
+    WebElement lbl_EmailError;
+
+    @CacheLookup
+    @FindBy(how = How.XPATH, using = "//span[@id='message-err']")
+    WebElement lbl_MessageError;
+
     public ContactPage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
@@ -54,6 +67,34 @@ public class ContactPage extends CodeBase {
         click(btn_submit);
         wait(lbl_success);
         isDisplayed(lbl_success);
+        writeToReport(">> Verified Success Message");
+    }
+
+    public  void fillContactDetailsMandatoryOnly(String name,String email,String message) throws InterruptedException {
+        type(txt_forename,name);
+        type(txt_email,email);
+        type(txt_message,message);
+        boolean emailstate=isDisplayedBoolen(lbl_EmailError);
+        if (emailstate==true){
+           fail("Fail");
+        }else {
+            writeToReport("Not Display Error Message");
+        }
+
+        boolean ForeNameState=isDisplayedBoolen(lbl_ForeNameError);
+        if (ForeNameState==true){
+            fail("Fail");
+        }else {
+            writeToReport("Not Display Error Message");
+        }
+
+        boolean MessageState=isDisplayedBoolen(lbl_MessageError);
+        if (MessageState==true){
+            fail("Fail");
+        }else {
+            writeToReport("Not Display Error Message");
+        }
+
         writeToReport(">> Verified Success Message");
     }
 }

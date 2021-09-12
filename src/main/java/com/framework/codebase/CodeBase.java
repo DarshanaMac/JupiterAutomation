@@ -48,6 +48,19 @@ public class CodeBase extends Initializer {
         }
     }
 
+    public boolean isDisplayedBoolen(WebElement element){
+        boolean state=false;
+        try {
+            WebDriverWait wait = new WebDriverWait(driver, default_timeout);
+            wait.until(ExpectedConditions.visibilityOf(element));
+            state=element.isDisplayed();
+            return  state;
+
+        }catch (Exception e){
+                return false;
+        }
+    }
+
     /**
      *
      * @param element
@@ -104,6 +117,15 @@ public class CodeBase extends Initializer {
      */
     public void writeToReport(String message){
         test1.log(Status.INFO,message);
+    }
+
+    /**
+     *
+     *
+     * @param message
+     */
+    public void fail(String message){
+        test1.fail(message);
     }
 
 }
