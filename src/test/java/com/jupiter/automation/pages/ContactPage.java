@@ -42,15 +42,15 @@ public class ContactPage extends CodeBase {
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//span[text()='Forename is required']")
-    WebElement lbl_ForeNameError;
+    private WebElement lbl_ForeNameError;
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//span[@id='email-err']")
-    WebElement lbl_EmailError;
+    private WebElement lbl_EmailError;
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//span[@id='message-err']")
-    WebElement lbl_MessageError;
+    private WebElement lbl_MessageError;
 
     public ContactPage(WebDriver driver) {
         this.driver = driver;

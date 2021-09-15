@@ -18,31 +18,31 @@ public class HomePage extends CodeBase {
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//a[text()='Submit']")
-    WebElement btn_submit;
+    private WebElement btn_submit;
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//Strong[text()='We welcome your feedback']")
-    WebElement lbl_Welcome;
+    private WebElement lbl_Welcome;
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//span[text()='Forename is required']")
-    WebElement lbl_ForeNameError;
+    private  WebElement lbl_ForeNameError;
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//span[@id='email-err']")
-    WebElement lbl_EmailError;
+    private WebElement lbl_EmailError;
 
     @CacheLookup
     @FindBy(how = How.XPATH, using = "//span[@id='message-err']")
-    WebElement lbl_MessageError;
+    private WebElement lbl_MessageError;
 
     @CacheLookup
     @FindBy(xpath = "//input[@id='forename']")
-    private WebElement txt_forename;
+     private WebElement txt_forename;
 
     @CacheLookup
     @FindBy(xpath = "//input[@id='surname']")
-    private WebElement txt_surname;
+     private WebElement txt_surname;
 
     @CacheLookup
     @FindBy(xpath = "//li[@id='nav-shop']/a")

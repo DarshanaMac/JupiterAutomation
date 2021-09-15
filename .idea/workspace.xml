@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422cb538-e2e3-4950-8512-c9fe78b67257" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/testsuites/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/testsuites/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/framework/codebase/Initializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/framework/codebase/Initializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jupiter/automation/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/framework/codebase/Initializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/framework/codebase/Initializer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,7 @@
       <recent name="D:\New folder\JupiterAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Test1">
+  <component name="RunManager" selected="TestNG.Test2">
     <configuration name="Test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JupiterTestAutomation" />
       <extension name="coverage">
@@ -101,7 +105,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jupiter.automation.tests" />
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
       <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test2" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
@@ -110,7 +114,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4 (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JupiterTestAutomation" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +122,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jupiter.automation.testsuites" />
-      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test4" />
+      <option name="PACKAGE_NAME" value="com.jupiter.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jupiter.automation.testsuites.Test2" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Test2" />
         <item itemvalue="TestNG.Test1" />
         <item itemvalue="TestNG.Test1.Test1" />
         <item itemvalue="TestNG.Test4" />
         <item itemvalue="TestNG.Test4.Test4" />
-        <item itemvalue="TestNG.Test4 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,46 +230,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631207319723" />
-    <state width="1237" height="148" key="GridCell.Tab.0.bottom" timestamp="1631458300737">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1631470333148">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631458300737" />
-    <state width="1237" height="148" key="GridCell.Tab.0.center" timestamp="1631458300737">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631470333148" />
+    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1631470333148">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631458300737" />
-    <state width="1237" height="148" key="GridCell.Tab.0.left" timestamp="1631458300737">
+    <state width="1237" height="181" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631470333148" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1631470333148">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631458300737" />
-    <state width="1237" height="148" key="GridCell.Tab.0.right" timestamp="1631458300737">
+    <state width="1237" height="181" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631470333148" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1631470333148">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631458300737" />
-    <state width="1237" height="181" key="GridCell.Tab.1.bottom" timestamp="1631457614801">
+    <state width="1237" height="181" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631470333148" />
+    <state width="1237" height="181" key="GridCell.Tab.1.bottom" timestamp="1631470333149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631457614801" />
-    <state width="1237" height="181" key="GridCell.Tab.1.center" timestamp="1631457614801">
+    <state width="1237" height="181" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631470333149" />
+    <state width="1237" height="181" key="GridCell.Tab.1.center" timestamp="1631470333149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631457614801" />
-    <state width="1237" height="181" key="GridCell.Tab.1.left" timestamp="1631457614800">
+    <state width="1237" height="181" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631470333149" />
+    <state width="1237" height="181" key="GridCell.Tab.1.left" timestamp="1631470333149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631457614800" />
-    <state width="1237" height="181" key="GridCell.Tab.1.right" timestamp="1631457614801">
+    <state width="1237" height="181" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631470333149" />
+    <state width="1237" height="181" key="GridCell.Tab.1.right" timestamp="1631470333149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631457614801" />
+    <state width="1237" height="181" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631470333149" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1631368481247">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1631368481247" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1631416957946">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1631502752010">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631416957946" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631502752010" />
     <state x="171" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1631342669078">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

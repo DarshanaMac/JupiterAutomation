@@ -57,7 +57,7 @@ public class Initializer {
     public static void init() {
         System.setProperty("webdriver.chrome.driver", file.getAbsolutePath() + File.separator + "Lib" + File.separator + "chromedriver.exe");
         driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
         driver.manage().window().maximize();
     }
 
